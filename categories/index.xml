@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 黄为春律师</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://weirdchun.github.io/categories/</link>
     <description>Recent content in Categories on 黄为春律师</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://weirdchun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>办案随笔</title>
-      <link>http://localhost:1313/categories/%E5%8A%9E%E6%A1%88%E9%9A%8F%E7%AC%94/</link>
+      <link>https://weirdchun.github.io/categories/%E5%8A%9E%E6%A1%88%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%E5%8A%9E%E6%A1%88%E9%9A%8F%E7%AC%94/</guid>
+      <guid>https://weirdchun.github.io/categories/%E5%8A%9E%E6%A1%88%E9%9A%8F%E7%AC%94/</guid>
       <description></description>
     </item>
     <item>
       <title>律师动态</title>
-      <link>http://localhost:1313/categories/%E5%BE%8B%E5%B8%88%E5%8A%A8%E6%80%81/</link>
+      <link>https://weirdchun.github.io/categories/%E5%BE%8B%E5%B8%88%E5%8A%A8%E6%80%81/</link>
       <pubDate>Sat, 04 Nov 2017 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%E5%BE%8B%E5%B8%88%E5%8A%A8%E6%80%81/</guid>
+      <guid>https://weirdchun.github.io/categories/%E5%BE%8B%E5%B8%88%E5%8A%A8%E6%80%81/</guid>
       <description></description>
     </item>
     <item>
       <title>律师荣誉</title>
-      <link>http://localhost:1313/categories/%E5%BE%8B%E5%B8%88%E8%8D%A3%E8%AA%89/</link>
+      <link>https://weirdchun.github.io/categories/%E5%BE%8B%E5%B8%88%E8%8D%A3%E8%AA%89/</link>
       <pubDate>Sat, 04 Nov 2017 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%E5%BE%8B%E5%B8%88%E8%8D%A3%E8%AA%89/</guid>
+      <guid>https://weirdchun.github.io/categories/%E5%BE%8B%E5%B8%88%E8%8D%A3%E8%AA%89/</guid>
       <description></description>
     </item>
     <item>
       <title>成功案例</title>
-      <link>http://localhost:1313/categories/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</link>
+      <link>https://weirdchun.github.io/categories/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</link>
       <pubDate>Sat, 04 Nov 2017 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</guid>
+      <guid>https://weirdchun.github.io/categories/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</guid>
       <description></description>
     </item>
   </channel>
